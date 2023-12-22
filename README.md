@@ -1,7 +1,7 @@
 # SouthLAPropertyCrimeAnalysis
 
 The aims of this project are to analyze the significance of Nuisance Properties on crime occurence, and to see if there's a significant difference when compared with Protective Properties <br>
-Niusance properties: Liquor, Tobacco, and Marijuana stores <br>
+Niusance properties: Tobacoo, Marijuana, and Liquor stores <br>
 Protective Properties: Churches, Schools, Parks <br />
 
 
