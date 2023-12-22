@@ -9,4 +9,5 @@ Files which generate the exact data frames we used, as well as the generated dat
 The Census, FBI, GIS, aand shapefiles that we used to create our data frames are not included
 
 Statistical methods used: General EDA, Linear Models, Bootstrapping, Spatial (Isotropic and Border-Corrected Ripley's K with CI's), KDE, geographical visualization
+
 In process of creating Multivatiate Ripley's K functions with Monte-Carlo Simulations
