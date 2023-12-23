@@ -11,4 +11,4 @@ The Census, FBI, GIS, shapefiles, or other data files that we used to create our
 
 
 Statistical methods used: General EDA, Linear Models, Bootstrapping, Spatial (Isotropic and Border-Corrected Ripley's K with CI's), KDE, geographical visualization <br>
-In process of creating Multivatiate Ripley's K functions with Monte-Carlo Simulations <br>
+In process of creating Multivariate Ripley's K functions with Monte-Carlo Simulations <br>
