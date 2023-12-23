@@ -7,7 +7,7 @@ Protective Properties: Churches, Schools, Parks <br />
 
 Here are selected scripts from my research publication project with Dr. Fitzpatrick <br>
 Files which generate the exact data frames we used, as well as the generated data frame csv's and excel files, have been ommited <br>
-The Census, FBI, GIS, and shapefiles that we used to create our data frames are not included <br />
+The Census, FBI, GIS, shapefiles, or other data files that we used to create our main data frames are not included <br />
 
 
 Statistical methods used: General EDA, Linear Models, Bootstrapping, Spatial (Isotropic and Border-Corrected Ripley's K with CI's), KDE, geographical visualization <br>
